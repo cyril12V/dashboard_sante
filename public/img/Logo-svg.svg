@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 30" width="112" height="30">
+	<title>Logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 15px;fill: #000000;font-weight: 700;font-family: "Poppins-Bold", "Poppins" } 
+	</style>
+	<text id="THE GUARDIAN" style="transform: matrix(1,0,0,1,0,21)" >
+		<tspan x="0" y="0" class="t0">T</tspan><tspan  y="0" class="t0">H</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">G</tspan><tspan  y="0" class="t0">U</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">R</tspan><tspan  y="0" class="t0">D</tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+</svg>
